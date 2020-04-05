@@ -1,0 +1,131 @@
+{
+    "title": "cos沙尘安莉洁cosplay服装",
+    "price": "310.00",
+    "colors": [
+        "衣服全款预定优惠价",
+        "衣服现货"
+    ],
+    "size": [
+        "M"
+    ],
+    "totalNumber": 39,
+    "promise": [
+        "不支持七天无理由"
+    ],
+    "pay": [
+        "集分宝",
+        "蚂蚁花呗"
+    ],
+    "evaluate": 134,
+    "success": 211,
+    "evaluateContent": "http://127.0.0.1:3000/qingchen4/evaluate",
+    "banner": [
+        "http://127.0.0.1:3000/data/detail/qingchen4/banner/1.jpg",
+        "http://127.0.0.1:3000/data/detail/qingchen4/banner/2.jpg",
+        "http://127.0.0.1:3000/data/detail/qingchen4/banner/3.jpg",
+        "http://127.0.0.1:3000/data/detail/qingchen4/banner/4.jpg",
+        "http://127.0.0.1:3000/data/detail/qingchen4/banner/5.jpg"
+    ],
+    "content": [
+        "http://127.0.0.1:3000/data/detail/qingchen4/content/1.jpg",
+        "http://127.0.0.1:3000/data/detail/qingchen4/content/2.jpg",
+        "http://127.0.0.1:3000/data/detail/qingchen4/content/3.jpg",
+        "http://127.0.0.1:3000/data/detail/qingchen4/content/4.jpg",
+        "http://127.0.0.1:3000/data/detail/qingchen4/content/5.jpg",
+        "http://127.0.0.1:3000/data/detail/qingchen4/content/6.jpg",
+        "http://127.0.0.1:3000/data/detail/qingchen4/content/7.jpg",
+        "http://127.0.0.1:3000/data/detail/qingchen4/content/8.jpg",
+        "http://127.0.0.1:3000/data/detail/qingchen4/content/9.jpg",
+        "http://127.0.0.1:3000/data/detail/qingchen4/content/10.jpg",
+        "http://127.0.0.1:3000/data/detail/qingchen4/content/11.jpg"
+    ],
+    "detail": {
+        "适用年龄": "14岁及以上",
+        "COS女装分类": "裙子",
+        "产地": "中国大陆",
+        "适用性别": "女",
+        "出售状态": "现货",
+        "参考身高": "L M S XL",
+        "作品来源": "动漫 原创"
+    },
+    "seller": {
+        "store": "金牌卖家",
+        "title": "Rain雨轩",
+        "description": 4.9,
+        "service": 4.9,
+        "express": 4.9,
+        "logo": "http://127.0.0.1:3000/data/detail/qingchen4/logo.jpg"
+    },
+    "recommend": [
+        {
+            "image": "http://127.0.0.1:3000/data/home/recommend/popular/1.jpg",
+            "title": "王者的荣耀貂蝉星元金色仲夏夜之梦cosplay服装白梦COS 衣服",
+            "collection": 230,
+            "price": 520,
+            "id": "qingchen1"
+        },
+        {
+            "image": "http://127.0.0.1:3000/data/home/recommend/popular/2.jpg",
+            "title": "白泽缘之空穹妹兔女郎COS服装全套动漫女仆装春日野穹兔子服cosplay衣服性感演出表演服",
+            "collection": 132,
+            "price": 520,
+            "id": "qingchen2"
+        },
+        {
+            "image": "http://127.0.0.1:3000/data/home/recommend/popular/3.jpg",
+            "title": "春日野穹cos穹妹黑色和服浴衣cosplay服装女 全套",
+            "collection": 415,
+            "price": 520,
+            "id": "qingchen3"
+        },
+        {
+            "image": "http://127.0.0.1:3000/data/home/recommend/popular/4.jpg",
+            "title": "cos沙尘安莉洁cosplay服装",
+            "collection": 56,
+            "price": 520,
+            "id": "qingchen4"
+        },
+        {
+            "image": "http://127.0.0.1:3000/data/home/recommend/popular/5.jpg",
+            "title": "cos服装女加藤惠诗羽英梨梨路人女主的养成方法cosplay全套",
+            "collection": 565,
+            "price": 520,
+            "id": "qingchen5"
+        },
+        {
+            "image": "http://127.0.0.1:3000/data/home/recommend/popular/6.jpg",
+            "title": "终结的炽天使",
+            "collection": 96,
+            "price": 520,
+            "id": "qingchen6"
+        },
+        {
+            "image": "http://127.0.0.1:3000/data/home/recommend/popular/7.jpg",
+            "title": "Uwowo悠窝窝 路人女主的养成方法 英梨梨礼服内衣cosplay服",
+            "collection": 153,
+            "price": 520,
+            "id": "qingchen7"
+        },
+        {
+            "image": "http://127.0.0.1:3000/data/home/recommend/popular/8.jpg",
+            "title": "FGO fate吾王 阿尔托利亚cos 黑saber黑礼服cosplay",
+            "collection": 75,
+            "price": 520,
+            "id": "qingchen8"
+        },
+        {
+            "image": "http://127.0.0.1:3000/data/home/recommend/popular/9.jpg",
+            "title": "Uwowo悠窝窝Fate FGO伊利亚伊莉雅巧克力天使礼装cosplay服装",
+            "collection": 484,
+            "price": 299,
+            "id": "qingchen9"
+        },
+        {
+            "image": "http://127.0.0.1:3000/data/home/recommend/popular/10.jpg",
+            "title": "现货碧蓝航线cos服女将礼服御姐cos服装cosplay套装女cos服",
+            "collection": 999,
+            "price": 256.00,
+            "id": "qingchen10"
+        }
+    ]
+}

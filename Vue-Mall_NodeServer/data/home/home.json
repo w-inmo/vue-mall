@@ -1,0 +1,26 @@
+{
+    "swiper": [
+        {"image": "http://127.0.0.1:3000/data/home/swiper/1.jpg"},
+        {"image": "http://127.0.0.1:3000/data/home/swiper/2.jpg"},
+        {"image": "http://127.0.0.1:3000/data/home/swiper/3.jpg"},
+        {"image": "http://127.0.0.1:3000/data/home/swiper/4.jpg"}
+    ],
+    "nav": [
+        {
+            "image": "http://127.0.0.1:3000/data/home/nav/1.png",
+            "title": "十点抢券"
+        },
+        {
+            "image": "http://127.0.0.1:3000/data/home/nav/2.png",
+            "title": "好物特卖"
+        },
+        {
+            "image": "http://127.0.0.1:3000/data/home/nav/3.png",
+            "title": "内购福利"
+        },
+        {
+            "image": "http://127.0.0.1:3000/data/home/nav/4.png",
+            "title": "初秋上新"
+        }
+    ]
+}

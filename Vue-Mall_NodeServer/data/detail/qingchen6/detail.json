@@ -1,0 +1,143 @@
+{
+    "title": "终结的炽天使 克鲁鲁cos服装吸血鬼cosplay服装采佩西哥特女王装",
+    "price": "185.00",
+    "colors": [
+        "单买~服装(头饰+裙+领+手袖+手套+底裤)",
+        "服装（头饰+裙+领+手袖+手套+底裤）+假发:送发网",
+        "服装（头饰+裙+领+手袖+手套+底裤）+假发+肤色精灵耳朵"
+    ],
+    "size": [
+        "L",
+        "M",
+        "S",
+        "XL"
+    ],
+    "totalNumber": 3573,
+    "promise": [
+        "正品保证",
+        "极速退款",
+        "七天无理由退换"
+    ],
+    "pay": [
+        "蚂蚁花呗",
+        "信用卡支付",
+        "集分宝",
+        "快捷支付",
+        "余额宝"
+    ],
+    "evaluate": 488,
+    "success": 10,
+    "evaluateContent": "http://127.0.0.1:3000/qingchen6/evaluate",
+    "banner": [
+        "http://127.0.0.1:3000/data/detail/qingchen6/banner/1.jpg",
+        "http://127.0.0.1:3000/data/detail/qingchen6/banner/2.jpg",
+        "http://127.0.0.1:3000/data/detail/qingchen6/banner/3.jpg",
+        "http://127.0.0.1:3000/data/detail/qingchen6/banner/4.jpg",
+        "http://127.0.0.1:3000/data/detail/qingchen6/banner/5.jpg"
+    ],
+    "content": [
+        "http://127.0.0.1:3000/data/detail/qingchen6/content/1.jpg",
+        "http://127.0.0.1:3000/data/detail/qingchen6/content/2.jpg",
+        "http://127.0.0.1:3000/data/detail/qingchen6/content/3.jpg",
+        "http://127.0.0.1:3000/data/detail/qingchen6/content/4.jpg",
+        "http://127.0.0.1:3000/data/detail/qingchen6/content/5.jpg",
+        "http://127.0.0.1:3000/data/detail/qingchen6/content/6.jpg",
+        "http://127.0.0.1:3000/data/detail/qingchen6/content/7.jpg",
+        "http://127.0.0.1:3000/data/detail/qingchen6/content/8.jpg",
+        "http://127.0.0.1:3000/data/detail/qingchen6/content/9.jpg",
+        "http://127.0.0.1:3000/data/detail/qingchen6/content/10.jpg",
+        "http://127.0.0.1:3000/data/detail/qingchen6/content/11.jpg"
+    ],
+    "detail": {
+        "品牌": "静悦坊",
+        "品名": "克鲁鲁",
+        "适用年龄": "14周岁以上",
+        "COS女装分类": "套装",
+        "颜色分类": "单买~服装(头饰+裙+领+手袖+手套+底裤)",
+        "出售状态": "现货",
+        "ACG作品名": "终结的炽天使",
+        "选购热点": "可爱风 和风 女仆装 御姐 洛丽塔",
+        "大小": "L M S XL",
+        "ACG角色名": "克鲁鲁·采佩西"
+    },
+    "seller": {
+        "store": "漫悠悠COS",
+        "title": "天猫9年店",
+        "description": 4.8,
+        "service": 4.8,
+        "express": 4.8,
+        "logo": "http://127.0.0.1:3000/data/detail/qingchen6/logo.jpg"
+    },
+    "recommend": [
+        {
+            "image": "http://127.0.0.1:3000/data/home/recommend/popular/1.jpg",
+            "title": "王者的荣耀貂蝉星元金色仲夏夜之梦cosplay服装白梦COS 衣服",
+            "collection": 230,
+            "price": 520,
+            "id": "qingchen1"
+        },
+        {
+            "image": "http://127.0.0.1:3000/data/home/recommend/popular/2.jpg",
+            "title": "白泽缘之空穹妹兔女郎COS服装全套动漫女仆装春日野穹兔子服cosplay衣服性感演出表演服",
+            "collection": 132,
+            "price": 520,
+            "id": "qingchen2"
+        },
+        {
+            "image": "http://127.0.0.1:3000/data/home/recommend/popular/3.jpg",
+            "title": "春日野穹cos穹妹黑色和服浴衣cosplay服装女 全套",
+            "collection": 415,
+            "price": 520,
+            "id": "qingchen3"
+        },
+        {
+            "image": "http://127.0.0.1:3000/data/home/recommend/popular/4.jpg",
+            "title": "cos沙尘安莉洁cosplay服装",
+            "collection": 56,
+            "price": 520,
+            "id": "qingchen4"
+        },
+        {
+            "image": "http://127.0.0.1:3000/data/home/recommend/popular/5.jpg",
+            "title": "cos服装女加藤惠诗羽英梨梨路人女主的养成方法cosplay全套",
+            "collection": 565,
+            "price": 520,
+            "id": "qingchen5"
+        },
+        {
+            "image": "http://127.0.0.1:3000/data/home/recommend/popular/6.jpg",
+            "title": "终结的炽天使",
+            "collection": 96,
+            "price": 520,
+            "id": "qingchen6"
+        },
+        {
+            "image": "http://127.0.0.1:3000/data/home/recommend/popular/7.jpg",
+            "title": "Uwowo悠窝窝 路人女主的养成方法 英梨梨礼服内衣cosplay服",
+            "collection": 153,
+            "price": 520,
+            "id": "qingchen7"
+        },
+        {
+            "image": "http://127.0.0.1:3000/data/home/recommend/popular/8.jpg",
+            "title": "FGO fate吾王 阿尔托利亚cos 黑saber黑礼服cosplay",
+            "collection": 75,
+            "price": 520,
+            "id": "qingchen8"
+        },
+        {
+            "image": "http://127.0.0.1:3000/data/home/recommend/popular/9.jpg",
+            "title": "Uwowo悠窝窝Fate FGO伊利亚伊莉雅巧克力天使礼装cosplay服装",
+            "collection": 484,
+            "price": 299,
+            "id": "qingchen9"
+        },
+        {
+            "image": "http://127.0.0.1:3000/data/home/recommend/popular/10.jpg",
+            "title": "现货碧蓝航线cos服女将礼服御姐cos服装cosplay套装女cos服",
+            "collection": 999,
+            "price": 256.00,
+            "id": "qingchen10"
+        }
+    ]
+}

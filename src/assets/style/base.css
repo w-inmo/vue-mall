@@ -1,0 +1,63 @@
+@import "./normalize.css";
+@import url("//at.alicdn.com/t/font_1501453_h9rvxg74jxu.css");
+
+:root {
+	--color-text: #666;
+	--color-high-text: #ff5777;
+	--color-tint: #ff8198;
+	--color-background: #fff;
+	--font-size: 14px;
+	--line-height: 1.5;
+	--highlight-color: rgb(238, 103, 126);
+}
+
+html, body {
+	width: 100%;
+	height: 100%;
+}
+
+*,
+*::before,
+*::after {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+*{touch-action: none;}
+
+body {
+	background-color: #f7f7f7;
+	color: var(--color-text);
+	width: 100vw;
+}
+
+a {
+	color: var(--coor-text);
+	text-decoration: none;
+}
+
+ul { list-style: none; }
+
+li { list-style: none; }
+
+.clear-fix::after {
+	clear: both;
+	content: "";
+	display: block;
+	width: 0;
+	height: 0;
+	visibility: hidden;
+}
+
+.clear-fix {
+	zoom: 1;
+}
+
+.left {
+	float: left;
+}
+
+.right {
+	float: right;
+}
