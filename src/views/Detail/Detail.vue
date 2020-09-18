@@ -10,8 +10,7 @@
 			<detail-item-info
 				:images="detailData.content"
 				@detailImageLoaded="detailImageLoaded"
-				ref="itemInfo"
-			/>
+				ref="itemInfo" />
 			<detail-recommend-list :recommend="detailData.recommend" ref="recommend" />
 		</scroll>
 		<detail-bottom-bar @addToShopCart="addToShopCart" />
@@ -35,12 +34,10 @@
 	import DetailEvaluate from "./Components/DetailEvaluate";
 	import DetailBottomBar from "./Components/DetailBottomBar";
 	import DetailCover from "./Components/DetailCover";
-
 	import BackTop from "components/content/BackTop/BackTop";
 	import Scroll from "components/common/scroll/Scroll";
 
 	import { backTopMixin } from "common/mixin.js";
-
 	import getDetail from "network/detail.js";
 
 	import { mapActions } from "vuex";

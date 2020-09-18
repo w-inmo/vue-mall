@@ -2,7 +2,7 @@ const fs = require("fs"),
 	path = require("path"),
 	url = require("url");
 
-module.exports = function(req, res) {
+function router(req, res) {
 	
 	const myUrl = url.parse(req.url, true);
 	
@@ -25,9 +25,9 @@ module.exports = function(req, res) {
 	} else {
 
 		// 防止请求 favicon.ico 没有文件出错
-		if (req.url === "/favicon.ico") res.end();
+		if (req.url === "/favicon.ico") return res.end('');
 
-		myReadFile(path.join(__dirname, ".." + req.url), res);
+		myReadFile(path.join(__dirname, "../" + req.url), res);
 
 	}
 };
@@ -35,6 +35,9 @@ module.exports = function(req, res) {
 function myReadFile(path, res) {
 	fs.readFile(path, (err, data) => {
 		if (err) throw err;
+
 		res.end(data);
 	});
 }
+
+module.exports = router

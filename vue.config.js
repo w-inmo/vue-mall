@@ -5,7 +5,6 @@ function resolve(dir) {
 }
 
 module.exports = {
-	publicPath: '././',
 	outputDir: "www",
 	chainWebpack: (config) => {
 		config.resolve.alias.set("assets", resolve('src/assets'))

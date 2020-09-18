@@ -4,7 +4,7 @@ import {
 
 export function getHomeMultidata() {
 	return http({
-		url: "/home/baseData"
+		url: "/home"
 	});
 };
 

@@ -1,7 +1,7 @@
 const router = require("./router.js");
 
 module.exports = function(req, res) {
-	
+
 	// 去除跨域限制
 	res.setHeader("Access-Control-Allow-Origin", "*");
 

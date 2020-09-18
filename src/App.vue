@@ -1,13 +1,10 @@
 <template>
 	<div id="app" class="app">
-
 		<transition :name="toggleAnima">
 			<keep-alive exclude="Detail">
-				<!-- 通过添加唯一键值把路由定位唯一的(防止重用) 把 key 属性设置为当前路由的值 -->
 				<router-view class="router" :key="$route.fullPath"></router-view>
 			</keep-alive>
 		</transition>
-
 		<MainTabBar v-if="isShowTabbar" />
 	</div>
 </template>
